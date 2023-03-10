@@ -1,0 +1,31 @@
+*{
+	font-family: "Roboto", san-serif;
+}
+
+body{
+	padding: 25px 25px 25px 25px;
+	background-color: beige;
+    }
+
+.newBox{
+	height: 25px;
+	width: 25px;
+	border: black 1px;
+	border-style:solid;
+	background-color: whitesmoke;
+	display: inline-block;
+	margin-block: 0px;	    
+}
+
+.colorBox{
+	background-color: darkslategray;
+}
+
+#container{
+	line-height: 0;		
+}
+
+#sample{
+	line-height: 0;
+	
+}
